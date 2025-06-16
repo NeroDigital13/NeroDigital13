@@ -1,7 +1,41 @@
-Yo!
-My name is Isaac. I am brand new to code and programming but have always had a fascination with technology, especially computers.
-I am currently going through Codecademy to start learning and understanding programming. But I am wanting to learn as much as I can in this field.
-My main focus in learning to coding is to mainly focus on sofware development, web development, cybersecurity, and saas.
-As a hobby I love to play video games and would love to learn how to code games in my spare time.
-I love music and I am always down for a new sound to jam to!
-I am still a total noob at all of this but I hope to abosorb everything I can.
+# 👋 Hi, I’m Isaac! (aka NeroDigital13)
+
+Welcome to my GitHub profile!  
+I’m a passionate **student programmer** on a mission to break into the tech industry. I love learning new things and believe that every step—no matter how small—brings me closer to my goals.
+
+---
+
+## 🌟 About Me
+
+- 🚀 **Journey:** I started out aiming to become a full stack software developer and am building a strong foundation in the basics.
+- 💡 **Learning Path:**  
+  - Currently mastering **HTML** and **CSS**
+  - Next up: **JavaScript** and **SQL**
+  - On the horizon: **C#**, **Python**, Networking, and Cybersecurity
+- 🛠️ **Approach:** I strive for a broad understanding of technology, and I’m always excited to tackle something new.
+
+---
+
+## 🏆 Featured Project
+
+### ✂️ Barber Shop Website
+> My capstone project is to create a modern website for my local barber shop.  
+> This is where I’ll bring together everything I’ve learned—from front-end design to back-end logic—to deliver a real-world solution for my community.
+
+---
+
+## 💬 Motto
+
+> **"Allow yourself to be a beginner."**
+
+I believe that growth starts with humility and a willingness to try, fail, and try again.
+
+---
+
+## 🎮 Hobbies & Fun Facts
+
+- Gaming 🎮
+- Writing ✍️
+- Swimming 🏊
+
+---
